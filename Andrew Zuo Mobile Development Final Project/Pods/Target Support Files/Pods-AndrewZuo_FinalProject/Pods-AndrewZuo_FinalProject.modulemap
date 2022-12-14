@@ -1,0 +1,6 @@
+framework module Pods_AndrewZuo_FinalProject {
+  umbrella header "Pods-AndrewZuo_FinalProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

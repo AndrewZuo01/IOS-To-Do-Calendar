@@ -1,0 +1,36 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - FSCalendar (2.8.2)
+  - PieCharts (0.0.7)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - SwiftCharts (0.6.5)
+
+DEPENDENCIES:
+  - Charts
+  - FSCalendar
+  - PieCharts
+  - SQLite.swift (~> 0.12.0)
+  - SwiftCharts (~> 0.6.5)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - FSCalendar
+    - PieCharts
+    - SQLite.swift
+    - SwiftCharts
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  PieCharts: 30e50dfa7dc19e5b84e9878d32089673ef5d0453
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  SwiftCharts: 2e755ea292f0b87d3e4b2c1eb5afc080a20cdc15
+
+PODFILE CHECKSUM: 2582726413646fe54f6bab3514d5563c98878505
+
+COCOAPODS: 1.10.1

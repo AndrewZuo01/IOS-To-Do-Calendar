@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-AndrewZuo_FinalProject-AndrewZuo_FinalProjectUITests/Pods-AndrewZuo_FinalProject-AndrewZuo_FinalProjectUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/PieCharts/PieCharts.framework
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework
+${BUILT_PRODUCTS_DIR}/SwiftCharts/SwiftCharts.framework

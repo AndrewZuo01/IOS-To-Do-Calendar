@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'AndrewZuo_FinalProject' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AndrewZuo_FinalProject
+pod 'FSCalendar'
+pod 'SQLite.swift', '~> 0.12.0'
+pod 'SwiftCharts', '~> 0.6.5'
+pod 'PieCharts'
+pod 'Charts'
+  target 'AndrewZuo_FinalProjectTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'AndrewZuo_FinalProjectUITests' do
+    # Pods for testing
+  end
+
+end
